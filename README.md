@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Rochak
 
-I’m a Data Engineer with over 17 years of experience, Ex-Mercedes Benz, and the creator of Data With Baraa on YouTube. I visually explain complex data concepts and build courses with real-world projects and practical lessons that help people grow their careers.
+I’m a Quality Engineer with over experience of working with HCL Technologies, Infosys Ltd, CapOne, Toyota, American Express etc., having exposure of Data Engineering and Analytics.
 
 ---
 
