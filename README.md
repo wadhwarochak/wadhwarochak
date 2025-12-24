@@ -25,8 +25,6 @@ Below are list of my profiles:
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithbaraa&layout=compact&theme=dark" alt="Top Languages" />
 
-<!-- Profile Views Badge -->
-[![Profile Views](https://komarev.com/ghpvc/?username=DataWithBaraa&style=for-the-badge&color=blue)](https://github.com/DataWithBaraa)
 
 
 
