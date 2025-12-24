@@ -8,7 +8,7 @@ I’m a Quality Engineer with over experience of working with HCL Technologies, 
 Below are list of my profiles:  
 
 - 👤 [Portfolio](https://wadhwarochak.github.io/)  
-- 👤 [Git Hub](https://github.com/wadhwarochak)
+- 👤 [GitHub](https://github.com/wadhwarochak)
 - 👤 [Linkedin](https://www.linkedin.com/in/rochakwadhwa/)  
 - 👤 [Hacker Rank](https://www.hackerrank.com/profile/rochakwadhwa)  
 - 👤 [Leet Code](https://leetcode.com/u/rochakwadhwa/)  
