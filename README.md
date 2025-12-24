@@ -23,7 +23,7 @@ Below are list of my profiles:
 <img src="https://github-readme-stats.vercel.app/api?username=datawithbaraa&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithbaraa&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwarochak&layout=compact&theme=dark" alt="Top Languages" />
 
 
 
