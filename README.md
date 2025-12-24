@@ -4,13 +4,14 @@ I’m a Quality Engineer with over experience of working with HCL Technologies, 
 
 ---
 
-### 🎓 My COURSES  
-To get certified, follow a clean structure, track your progress, and support my work:  
+### 🎓 My Profiles  
+Below are list of my profiles:  
 
-- 🏅 [SQL Full Course for Beginners](https://www.datawithbaraa.com/course/sql-full-course-for-beginners)  
-- 🏅 [Tableau Ultimate Full Course for Beginners](https://www.datawithbaraa.com/course/tableau-ultimate-full-course-for-beginners)  
-- 🏅 [Udemy SQL Course](https://bit.ly/4hH947P)  
-- 🏅 [Udemy Tableau Course](https://bit.ly/3xFiDDk)  
+- 🏅 [Portfolio](https://www.https://wadhwarochak.github.io/)  
+- 🏅 [Git Hub](https://github.com/wadhwarochak)
+- 🏅 [Linkedin](https://www.linkedin.com/in/rochakwadhwa/)  
+- 🏅 [Hacker Rank](https://www.hackerrank.com/profile/rochakwadhwa)  
+- 🏅 [Leet Code](https://leetcode.com/u/rochakwadhwa/)  
 
 ---
 
