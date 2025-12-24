@@ -29,3 +29,8 @@ Below are list of my profiles:
 
 
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wadhwarochak&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwarochak&layout=compact&theme=tokyonight)
