@@ -19,7 +19,8 @@ Below are list of my profiles:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wadhwarochak&show_icons=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wadhwarochak&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwarochak&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wadhwarochak&theme=github_dark)
+
 
