@@ -11,16 +11,6 @@ Below are list of my profiles:
 - 👤 [GitHub](https://github.com/wadhwarochak)
 - 👤 [Linkedin](https://www.linkedin.com/in/rochakwadhwa/)  
 - 👤 [Hacker Rank](https://www.hackerrank.com/profile/rochakwadhwa)  
-- 👤 [Leet Code](https://leetcode.com/u/rochakwadhwa/)  
-
-
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wadhwarochak&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wadhwarochak&theme=github_dark)
+- 👤 [Leet Code](https://leetcode.com/u/rochakwadhwa/)
 
 
